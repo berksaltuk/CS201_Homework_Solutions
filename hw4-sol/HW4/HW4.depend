@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1608909685 source:c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\main.cpp
+	"FlightMap.h"
+
+1609539091 c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\include\flightmap.h
+	<iostream>
+	<fstream>
+	<string>
+	"City.h"
+	"PathStack.h"
+
+1609540429 source:c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\src\flightmap.cpp
+	"FlightMap.h"
+
+1609529663 source:c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\src\city.cpp
+	"City.h"
+
+1609538851 c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\include\city.h
+	<iostream>
+
+1609526612 c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\include\pathstack.h
+	"City.h"
+
+1609527537 source:c:\users\bsy\desktop\1. semester\cs201\homeworks\hw4\hw4\src\pathstack.cpp
+	"PathStack.h"
+
+1609527537 source:c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\src\pathstack.cpp
+	"PathStack.h"
+
+1609526612 c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\include\pathstack.h
+	"City.h"
+
+1610525890 c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\include\city.h
+	<iostream>
+
+1610525890 source:c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\src\city.cpp
+	"City.h"
+
+1608909685 source:c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\main.cpp
+	"FlightMap.h"
+
+1610522710 c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\include\flightmap.h
+	<iostream>
+	<fstream>
+	<string>
+	"City.h"
+	"PathStack.h"
+
+1610526341 source:c:\users\bsy\desktop\berk\2. sýnýf\1. semester\cs201\homeworks\hw4\hw4\src\flightmap.cpp
+	"FlightMap.h"
+	<sstream>
+
